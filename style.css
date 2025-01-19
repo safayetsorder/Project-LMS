@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Hind Siliguri", serif;
+}
+
+/* header start  */
+.container {
+    width: 90%;
+    margin: auto;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    align-items: center;
+}
+
+.header-right a {
+    color: black;
+    text-decoration: none;
+    margin-left: 15px;
+}
+
+.header-logo {
+    width: 80px;
+}
+
+/* header end  */
+/* hero start  */
+.hero-container {
+    display: flex;
+    align-items: center;
+}
+
+.hero-left {
+    width: 100%;
+}
+
+.hero-right {
+    width: 100%;
+}
+
+.hero-image {
+    width: 70%;
+    display: flex;
+    margin: auto;
+}
+
+.hero-left h1 {
+    font-size: 55px;
+}
+
+.hero-left p {
+    color: rgb(98, 98, 98);
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.hero-buttons {
+    display: flex;
+    margin-top: 15px;
+    gap: 10px;
+}
+
+.course-button,
+.video-button {
+    cursor: pointer;
+    padding: 12px 27px;
+    border-radius: 5px;
+    border: none;
+    font-family: "Hind Siliguri", serif;
+}
+
+.course-button {
+    color: white;
+    background-color: rgb(51, 123, 151);
+}
+
+.video-button {
+    color: black;
+    background-color: white;
+    border: 1px solid skyblue;
+}
+
+.course-button:hover {
+    background-color: black;
+    transition: 0.5s;
+}
+
+.video-button:hover {
+    transition: 0.5s;
+    background-color: skyblue;
+}
+
+/* hero end  */
+/* head line start  */
+.head-line {
+    display: flex;
+}
+
+.head-line h1 {
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
+/* head line end  */
