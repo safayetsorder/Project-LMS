@@ -116,3 +116,242 @@ body {
 }
 
 /* head line end  */
+/* card start  */
+.card-style {
+    width: 100%;
+    height: 90px;
+    cursor: pointer;
+    margin-bottom: 30px;
+    object-fit: contain;
+}
+
+.card-row-1 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+    margin-bottom: 25px;
+
+}
+
+.card-row-1-first {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.card-1 {
+    width: 100%;
+    height: 90px;
+    cursor: pointer;
+    margin-bottom: 30px;
+    object-fit: contain;
+}
+
+.card-2 {
+    width: 100%;
+    height: 90px;
+    cursor: pointer;
+    margin-bottom: 30px;
+    object-fit: contain;
+}
+
+.card-row-1-second {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.card-3 {
+    width: 100%;
+    height: 90px;
+    cursor: pointer;
+    margin-bottom: 30px;
+    object-fit: contain;
+}
+
+.card-4 {
+    width: 100%;
+    height: 90px;
+    cursor: pointer;
+    margin-bottom: 30px;
+    object-fit: contain;
+}
+
+.card-row-2 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+
+.card-row-2-first {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.card-5 {
+    width: 100%;
+    height: 90px;
+    cursor: pointer;
+    margin-bottom: 30px;
+    object-fit: contain;
+}
+
+.card-6 {
+    width: 100%;
+    height: 90px;
+    cursor: pointer;
+    margin-bottom: 30px;
+    object-fit: contain;
+}
+
+
+.card-row-2-second {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.card-7 {
+    width: 100%;
+    height: 90px;
+    cursor: pointer;
+    margin-bottom: 30px;
+    object-fit: contain;
+}
+
+.card-8 {
+    width: 100%;
+    height: 90px;
+    cursor: pointer;
+    margin-bottom: 30px;
+    object-fit: contain;
+}
+
+
+
+.card-row-3 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+
+.card-row-3-first {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.card-9 {
+    width: 100%;
+    height: 90px;
+    cursor: pointer;
+    margin-bottom: 30px;
+    object-fit: contain;
+}
+
+.card-10 {
+    width: 100%;
+    height: 90px;
+    cursor: pointer;
+    margin-bottom: 30px;
+    object-fit: contain;
+}
+
+.card-13 {
+    width: 100%;
+    height: 90px;
+    cursor: pointer;
+    margin-bottom: 30px;
+    object-fit: contain;
+}
+
+.card-14 {
+    width: 100%;
+    height: 90px;
+    cursor: pointer;
+    margin-bottom: 30px;
+    object-fit: contain;
+}
+
+.card-row-3-second {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.card-11 {
+    width: 100%;
+    height: 90px;
+    cursor: pointer;
+    margin-bottom: 30px;
+    object-fit: contain;
+}
+
+.card-12 {
+    width: 100%;
+    height: 90px;
+    cursor: pointer;
+    margin-bottom: 30px;
+    object-fit: contain;
+}
+
+
+.card-row-4 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.card-row-4-first {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+
+.card-row-4-second {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.card-15 {
+    width: 100%;
+    height: 90px;
+    cursor: pointer;
+    margin-bottom: 30px;
+    object-fit: contain;
+}
+
+.card-16 {
+    width: 100%;
+    height: 90px;
+    cursor: pointer;
+    margin-bottom: 30px;
+    object-fit: contain;
+}
+
+.card-row-5 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.card-17 {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.card-18 {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
