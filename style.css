@@ -201,3 +201,75 @@ body {
 .status-container>div:nth-child(5) {
     background-color: lightgreen;
 }
+
+/* card end  */
+/* second card star  */
+.second-h1 {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 45px;
+
+}
+
+.second-card {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: white;
+}
+
+.second-card img {
+    width: 100%;
+    height: 150px;
+    cursor: pointer;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.second-card .card-details {
+    padding: 10px;
+}
+
+.second-card h3 {
+    cursor: pointer;
+
+}
+
+.second-card p {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: green;
+    cursor: pointer;
+}
+
+.second-card i {
+    color: yellow;
+    cursor: pointer;
+}
+
+.second-card .card-details .btns {
+    display: flex;
+}
+
+.second-card button {
+    padding: 7px;
+    margin-bottom: 50px;
+    border: none;
+    cursor: pointer;
+    background-color: white;
+}
+
+.dot {
+    display: flex;
+    color: blue;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.popular-card {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+}
